@@ -4,11 +4,11 @@
 
 title: Teahwan's Gitblog
 logo:
-author: themefisher
+author: 김태환
 description: this is my git blog
 email: wiz.th1024@gmail.com
-phone: 010 1234 5678
-address: 125/A, CA Commercial Area, California, USA
+phone: 010-1234-5678
+address: Daejeon, South Korea
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 안녕하세요 제 블로그에 오신 것을 환영합니다.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -71,27 +71,35 @@ work-process:
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Moon Wonki"
     image: "assets/images/team/member-1.png"
     designation: "Project Manager"
 
-  - title: "Julias Carlie"
+  - title: "Shin Wooseok"
     image: "assets/images/team/member-2.png"
     designation: "Web Developer"
 
-  - title: "John Doe"
+  - title: "Kim Hynjeong"
     image: "assets/images/team/member-3.png"
     designation: "Designer"
+
+  - title: "Kim YoungSeob"
+    image: "assets/images/team/member-1.png"
+    designation: "Project Manager"
+
+  - title: "Lee Siyoon"
+    image: "assets/images/team/member-2.png"
+    designation: "Web Developer"
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Spring Boot, color: "#fdb157", value: "30%" }
+  - { name: Java, color: "#9473e6", value: "60%" }
+  - { name: Android App, color: "#bdecf6", value: "50%" }
+  - { name: Web Service, color: "#ffbcaa", value: "10%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,22 +107,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: 멋쟁이 사자차럼 백엔드스쿨,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "2023 4월 - 2023 9월",
+      organization: "멋쟁이 사자처럼",
     }
   - {
-      name: UX & UI Designer,
+      name: 현대 모비스 부트캠프,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "2022 9월 - 2023 2월",
+      organization: "Hyundai Mobis",
     }
   - {
-      name: Senior UI Designer,
+      name: Apple Developer Academy,
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "2024 2월 - Present",
+      organization: "Apple",
     }
 
 #-------------------------------
@@ -299,5 +307,5 @@ client-slider-items:
 #-------------------------------
 # Contact Section
 
-contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-title: 010-1234-5678
+contact-email: wiz.th1024@gmail.com
