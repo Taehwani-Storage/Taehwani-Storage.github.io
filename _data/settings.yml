@@ -39,9 +39,9 @@ hero:
   hero-title: Welcome to <br> my blog <br> 태환의 블로그
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
+  - { icon: "ti-github", link: "https://github.com/Taehwani-Storage" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/t_hwan95" }
+#  - { icon: "ti-dribbble", link: "#" }
   - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
@@ -109,71 +109,71 @@ experience:
   - {
       name: 멋쟁이 사자차럼 백엔드스쿨,
       icon: "icon-1.png",
-      date: "2023 4월 - 2023 9월",
+      date: "2023 4월 - 현재",
       organization: "멋쟁이 사자처럼",
     }
-  - {
-      name: 현대 모비스 부트캠프,
-      icon: "icon-2.png",
-      date: "2022 9월 - 2023 2월",
-      organization: "Hyundai Mobis",
-    }
-  - {
-      name: Apple Developer Academy,
-      icon: "icon-3.png",
-      date: "2024 2월 - Present",
-      organization: "Apple",
-    }
+#  - {
+#      name: 현대 모비스 부트캠프,
+#      icon: "icon-2.png",
+#      date: "2022 9월 - 2023 2월",
+#      organization: "Hyundai Mobis",
+#    }
+#  - {
+#      name: Apple Developer Academy,
+#      icon: "icon-3.png",
+#      date: "2024 2월 - Present",
+#      organization: "Apple",
+#    }
 
 #-------------------------------
 # Education Section
 
 education-title: Education
-education:
-  - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
-    }
-  - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
-    }
-  - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
-    }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+#education:
+#  - {
+#      name: Marters in UX Design,
+#      date: "2006",
+#      organization: "Masassusets Institute of Technology",
+#    }
+#  - {
+#      name: Honours in Fine Arts,
+#      date: "2004",
+#      organization: "Harvard University",
+#    }
+#  - {
+#      name: Higher Secondary Certificat,
+#      date: "2000",
+#      organization: "Cardiff School",
+#    }
+#  - {
+#      name: Secondary School Certificate,
+#      date: "1998",
+#      organization: "Cardiff School",
+#    }
 
 #-------------------------------
 # Services Section
 
 services-title: Services
-services:
-  - {
-      name: UI Design,
-      icon: ti-palette,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
-  - {
-      name: UX Design,
-      icon: ti-vector,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
-    }
-  - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
+#services:
+#  - {
+#      name: UI Design,
+#      icon: ti-palette,
+#      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+#      active: ,# Add true to select section
+#    }
+#  - {
+#      name: UX Design,
+#      icon: ti-vector,
+#      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+#      active: true, # Add true to select section
+#    }
+#  - {
+#      name: Interaction Design,
+#      icon: ti-panel,
+#      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+#      active: ,# Add true to select section
+#    }
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -255,20 +255,20 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
+  - name: "김태환"
+    image: "assets/images/testimonial/testClient.jpg"
     designation: "CEO, Funder"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+#
+#  - name: "Jesica Gomez"
+#    image: "assets/images/testimonial/client-1.png"
+#    designation: "CEO, Funder"
+#    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
